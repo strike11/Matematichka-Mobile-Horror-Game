@@ -1,7 +1,7 @@
 # Matematichka-Mobile-Horror-Game
 
 > [!NOTE]
-> This project is very large, so I uploaded it to my telegram channel: <a href="https://t.me/babadjanov_dev/17">Click here to install the project</a>
+> This project is very large, so I uploaded it to my telegram channel: <a href="https://t.me/babadjanov_dev/25">Click here to install the project</a>
 
 # Description
 
