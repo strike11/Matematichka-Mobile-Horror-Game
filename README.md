@@ -13,6 +13,7 @@ Hiding behind eerie hallways and horrifying classrooms, you must survive by solv
 
 Confronting the ghosts of unsolved equations and ominous shadows of past lessons, you must use your intellect and agility to avoid her deadly traps. Danger lurks in every corner of the school, and only those who can unravel the secrets of Miss Calculator can escape this mathematical horror nightmare.
 
+# <a href="https://www.youtube.com/watch?v=2_CUu3lUWJE">Trailer</a>
 
 ## Screenshots
 
